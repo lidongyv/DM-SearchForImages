@@ -1,5 +1,3 @@
-# DM-SearchForImages
-DM final turotial
 ====基于内容的图像检索系统设计与实现
 ----一、小组成员
 ----二、项目内容和意义
